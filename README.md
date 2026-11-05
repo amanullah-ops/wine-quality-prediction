@@ -1,6 +1,6 @@
 # White Wine Quality Prediction
 
-A beginner machine learning project that predicts white wine quality scores from physicochemical measurements using regression models.
+A machine learning project that predicts white wine quality scores from physicochemical measurements using regression models.
 
 ## Dataset
 
