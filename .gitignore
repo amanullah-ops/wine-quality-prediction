@@ -1,3 +1,4 @@
+#Folders not to be tracked by Git
 .idea/
 .venv/
 venv/
